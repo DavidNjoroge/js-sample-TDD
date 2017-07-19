@@ -1,0 +1,22 @@
+{
+  "name": "age-calculator",
+  "version": "1.0.0",
+  "description": "age calculator",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "Tdd",
+    "javascript"
+  ],
+  "author": "David mwangi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
